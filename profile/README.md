@@ -1,4 +1,4 @@
-## Hi there 👋
+## 🍊 Welcome to YuzuAI
 
 <!--
 
@@ -10,3 +10,10 @@
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+
+Open-Source Research for Japanese Large Language Models
+
+🌐 [YuzuAI](https://yuzuai.jp)
+💬 [Discord](https://discord.gg/bHB9e2rq2r)
+🐦 [Twitter](https://twitter.com/yuzuaijp)
+🤗 [HuggingFace](https://huggingface.co/yuzuai)
