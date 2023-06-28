@@ -1,4 +1,4 @@
-## 🍊 Welcome to YuzuAI
+## Hello, we are YuzuAI! 🍊 
 
 <!--
 
@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-Open-Source Research for Japanese Large Language Models
+YuzuAI is a community-driven organization passsionate about stimulating the growth of Japanese Large Language Models (LLMs). We are dedicated to fostering collaboration and knowledge sharing among enthusiasts, researchers, and developers who believe in the potential of open source models.
 
 * 🌐 [YuzuAI](https://yuzuai.jp)
 * 💬 [Discord](https://discord.gg/bHB9e2rq2r)
