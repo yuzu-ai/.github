@@ -13,7 +13,7 @@
 
 Open-Source Research for Japanese Large Language Models
 
-🌐 [YuzuAI](https://yuzuai.jp)
-💬 [Discord](https://discord.gg/bHB9e2rq2r)
-🐦 [Twitter](https://twitter.com/yuzuaijp)
-🤗 [HuggingFace](https://huggingface.co/yuzuai)
+* 🌐 [YuzuAI](https://yuzuai.jp)
+* 💬 [Discord](https://discord.gg/bHB9e2rq2r)
+* 🐦 [Twitter](https://twitter.com/yuzuaijp)
+* 🤗 [HuggingFace](https://huggingface.co/yuzuai)
