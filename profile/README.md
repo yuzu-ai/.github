@@ -1,4 +1,4 @@
-## Hello, we are YuzuAI! 🍊 
+## Welcome to YuzuAI! 🍊 
 
 <!--
 
